@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennysusanto
 - 👀 I’m interested in Data Engineering in general
-- 🌱 I’m currently pursuing a bachelor degree in Information Technology
+- 🌱 I’m currently pursuing a bachelor degree in Computer Science
 - 📫 How to reach me kennysusanto8@gmail.com
 
 <!---
