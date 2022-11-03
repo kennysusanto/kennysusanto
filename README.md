@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennysusanto
-- 👀 I’m interested in Software and Data Engineering in general
-- 🌱 I’m currently pursuing a bachelor degree in Computer Science
+- 👀 I’m interested in Software and Data Engineering
+- 🌱 I’m a bachelor in Computer Science
 - 📫 How to reach me kenny.susanto@rocketmail.com
 
 <!---
